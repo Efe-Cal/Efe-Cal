@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning AI</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning AI<br>⚡ Fun fact: I enjoy learning math</p>
 
 ###
 
